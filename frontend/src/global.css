@@ -1,0 +1,169 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Sidebar specific */
+aside {
+  transition: width 200ms ease;
+}
+
+/* small utility for profile */
+.profile-mini { display: inline-flex; align-items:center; gap:0.5rem; }
+
+/* card */
+.card {
+  background: #0f1318;
+  border: 1px solid rgba(255,255,255,0.03);
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.input-field {
+  @apply w-full p-3 bg-gray-800/70 border border-gray-700 rounded-lg 
+         text-white placeholder-gray-400 
+         focus:ring-2 focus:ring-emerald-500 outline-none 
+         transition;
+}
+
+
+.btn {
+  @apply bg-emerald-500 hover:bg-emerald-600 text-gray-900 font-semibold 
+         py-3 rounded-lg transition;
+}
+
+.input-field {
+  width: 100%;
+  padding: 12px 14px;
+  background: #ffffff;         /* white background */
+  border: 1px solid #3f3f46;
+  border-radius: 8px;
+  color: #000000;              /* BLACK TEXT */
+  font-size: 14px;
+  outline: none;
+  transition: 0.2s;
+}
+
+.input-field::placeholder {
+  color: #6b7280;              /* grey placeholder */
+}
+
+.input-field:focus {
+  border-color: #10b981;
+  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.3);
+}
+
+.input-field {
+  @apply w-full p-3 bg-gray-800/70 border border-gray-700 rounded-lg 
+         text-white placeholder-gray-400 
+         focus:ring-2 focus:ring-emerald-500 outline-none 
+         transition;
+}
+
+/* Smooth, modern dark theme */
+body {
+  background: #0d0f12;
+  color: #e5e7eb;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Glass-effect style cards */
+.card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 16px;
+  padding: 24px;
+  backdrop-filter: blur(10px);
+}
+
+/* Section headings */
+.section-title {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+/* Sub text */
+.section-sub {
+  font-size: 15px;
+  color: #94a3b8;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 1rem;
+  border-radius: 0.75rem;
+  backdrop-filter: blur(10px);
+}
+
+/* GLOBAL COLORS */
+:root {
+  --bg-dark: #0f1117;
+  --bg-card: #1a1d23;
+  --text-light: #e5e7eb;
+  --text-dim: #9ca3af;
+  --primary: #10b981;
+  --primary-hover: #0ea373;
+}
+
+/* Universal Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+body {
+  background: var(--bg-dark);
+  color: var(--text-light);
+  font-family: Inter, sans-serif;
+}
+
+/* Auth card */
+.auth-card {
+  background: var(--bg-card);
+  border-radius: 12px;
+  padding: 2rem;
+  width: 380px;
+  border: 1px solid #2d2f36;
+}
+
+/* INPUTS */
+.input-box {
+  width: 100%;
+  padding: 12px;
+  margin-top: 8px;
+  background: #ffffff;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  color: #000000;
+}
+
+.input-box:focus {
+  border-color: var(--primary);
+  outline: none;
+}
+
+/* BUTTON */
+.btn-primary {
+  width: 100%;
+  background: var(--primary);
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  margin-top: 16px;
+}
+
+.btn-primary:hover {
+  background: var(--primary-hover);
+}
+
+/* PAGE CENTER */
+.center-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}

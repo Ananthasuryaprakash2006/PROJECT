@@ -1,0 +1,106 @@
+@import "tailwindcss";
+.neon-glow {
+  box-shadow: 0 0 25px rgba(0, 255, 255, 0.25);
+}
+.fade-in {
+  animation: fadeIn 0.8s ease forwards;
+}
+
+.fade-in-slow {
+  animation: fadeIn 1.4s ease forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px);}
+  to   { opacity: 1; transform: translateY(0);}
+}
+
+.glass-tile {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.tile-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: .6rem;
+}
+
+.chart-box {
+  height: 230px;
+}
+
+.no-data {
+  color: #777;
+  font-size: .8rem;
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+
+
+.kpi-tile {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+}
+
+.chart-tile {
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(20px);
+}
+
+.ai-box {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(0, 255, 180, 0.2);
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.fade-in-up {
+  animation: slideUp 0.8s ease forwards;
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(15px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.tile-title {
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: .8rem;
+}
+
+.fade-in {
+  animation: fadeInUp .7s ease forwards;
+}
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.glass-tile {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.08);
+  backdrop-filter: blur(14px);
+}
+
+.kpi-tile {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.07);
+  backdrop-filter: blur(10px);
+}
+
+.ai-box {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(0,255,200,0.2);
+  padding: 20px;
+  border-radius: 18px;
+}
+

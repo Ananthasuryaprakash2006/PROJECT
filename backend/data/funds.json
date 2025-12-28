@@ -1,0 +1,511 @@
+[
+  {
+    "id": 1,
+    "name": "SBI Bluechip Fund",
+    "amc": "SBI Mutual Fund",
+    "category": "Large Cap",
+    "risk": "High",
+    "oneYear": 18.2,
+    "threeYear": 16.4,
+    "fiveYear": 14.3
+  },
+  {
+    "id": 2,
+    "name": "HDFC Flexi Cap Fund",
+    "amc": "HDFC Mutual Fund",
+    "category": "Flexi Cap",
+    "risk": "Medium",
+    "oneYear": 15.8,
+    "threeYear": 14.0,
+    "fiveYear": 13.1
+  },
+  {
+    "id": 3,
+    "name": "Axis Long Term Equity Fund",
+    "amc": "Axis Mutual Fund",
+    "category": "ELSS",
+    "risk": "High",
+    "oneYear": 17.1,
+    "threeYear": 15.5,
+    "fiveYear": 14.9
+  },
+  {
+    "id": 4,
+    "name": "ICICI Prudential Balanced Advantage Fund",
+    "amc": "ICICI Prudential",
+    "category": "Hybrid",
+    "risk": "Low",
+    "oneYear": 10.6,
+    "threeYear": 12.3,
+    "fiveYear": 11.2
+  },
+  {
+    "id": 5,
+    "name": "Kotak Liquid Fund",
+    "amc": "Kotak Mutual Fund",
+    "category": "Debt",
+    "risk": "Low",
+    "oneYear": 6.1,
+    "threeYear": 5.9,
+    "fiveYear": 5.4
+  },
+  {
+    "id": 6,
+    "name": "Mirae Asset Emerging Bluechip Fund",
+    "amc": "Mirae Asset",
+    "category": "Large & Mid Cap",
+    "risk": "High",
+    "oneYear": 21.4,
+    "threeYear": 18.2,
+    "fiveYear": 17.0
+  },
+  {
+    "id": 7,
+    "name": "Parag Parikh Flexi Cap Fund",
+    "amc": "PPFAS",
+    "category": "Flexi Cap",
+    "risk": "Low",
+    "oneYear": 17.8,
+    "threeYear": 16.0,
+    "fiveYear": 15.1
+  },
+  {
+    "id": 8,
+    "name": "Nippon India Small Cap Fund",
+    "amc": "Nippon India",
+    "category": "Small Cap",
+    "risk": "Very High",
+    "oneYear": 28.4,
+    "threeYear": 24.1,
+    "fiveYear": 20.2
+  },
+  {
+    "id": 9,
+    "name": "Motilal Oswal Nasdaq 100 Fund",
+    "amc": "Motilal Oswal",
+    "category": "Index",
+    "risk": "High",
+    "oneYear": 23.1,
+    "threeYear": 19.4,
+    "fiveYear": 18.0
+  },
+  {
+    "id": 10,
+    "name": "UTI Nifty Index Fund",
+    "amc": "UTI Mutual Fund",
+    "category": "Index",
+    "risk": "Low",
+    "oneYear": 14.3,
+    "threeYear": 13.8,
+    "fiveYear": 13.2
+  },
+
+  {
+    "id": 11,
+    "name": "SBI Small Cap Fund",
+    "amc": "SBI Mutual Fund",
+    "category": "Small Cap",
+    "risk": "Very High",
+    "oneYear": 27.3,
+    "threeYear": 22.5,
+    "fiveYear": 19.9
+  },
+  {
+    "id": 12,
+    "name": "Axis Growth Opportunities Fund",
+    "amc": "Axis Mutual Fund",
+    "category": "Large & Mid Cap",
+    "risk": "High",
+    "oneYear": 19.2,
+    "threeYear": 17.1,
+    "fiveYear": 15.7
+  },
+  {
+    "id": 13,
+    "name": "ICICI Prudential Technology Fund",
+    "amc": "ICICI Prudential",
+    "category": "Sectoral",
+    "risk": "High",
+    "oneYear": 24.5,
+    "threeYear": 21.0,
+    "fiveYear": 19.4
+  },
+  {
+    "id": 14,
+    "name": "HDFC Mid Cap Opportunities Fund",
+    "amc": "HDFC Mutual Fund",
+    "category": "Mid Cap",
+    "risk": "High",
+    "oneYear": 20.3,
+    "threeYear": 18.8,
+    "fiveYear": 16.7
+  },
+  {
+    "id": 15,
+    "name": "UTI Flexi Cap Fund",
+    "amc": "UTI Mutual Fund",
+    "category": "Flexi Cap",
+    "risk": "Medium",
+    "oneYear": 16.1,
+    "threeYear": 14.7,
+    "fiveYear": 13.9
+  },
+  {
+    "id": 16,
+    "name": "Kotak Emerging Equity Fund",
+    "amc": "Kotak Mutual Fund",
+    "category": "Mid Cap",
+    "risk": "High",
+    "oneYear": 18.9,
+    "threeYear": 17.5,
+    "fiveYear": 16.2
+  },
+  {
+    "id": 17,
+    "name": "SBI Equity Hybrid Fund",
+    "amc": "SBI Mutual Fund",
+    "category": "Hybrid",
+    "risk": "Medium",
+    "oneYear": 12.7,
+    "threeYear": 13.3,
+    "fiveYear": 12.4
+  },
+  {
+    "id": 18,
+    "name": "HDFC Gold ETF",
+    "amc": "HDFC Mutual Fund",
+    "category": "Commodity",
+    "risk": "Low",
+    "oneYear": 11.2,
+    "threeYear": 10.3,
+    "fiveYear": 9.8
+  },
+  {
+    "id": 19,
+    "name": "Edelweiss US Technology Fund",
+    "amc": "Edelweiss",
+    "category": "International",
+    "risk": "High",
+    "oneYear": 25.1,
+    "threeYear": 20.9,
+    "fiveYear": 17.8
+  },
+  {
+    "id": 20,
+    "name": "Franklin India Bluechip Fund",
+    "amc": "Franklin",
+    "category": "Large Cap",
+    "risk": "Medium",
+    "oneYear": 14.8,
+    "threeYear": 13.1,
+    "fiveYear": 12.7
+  },
+
+  {
+    "id": 21,
+    "name": "Tata Digital India Fund",
+    "amc": "Tata Mutual Fund",
+    "category": "Sectoral",
+    "risk": "Very High",
+    "oneYear": 30.5,
+    "threeYear": 24.2,
+    "fiveYear": 21.3
+  },
+  {
+    "id": 22,
+    "name": "Motilal Oswal Midcap 30 Fund",
+    "amc": "Motilal Oswal",
+    "category": "Mid Cap",
+    "risk": "High",
+    "oneYear": 21.8,
+    "threeYear": 18.5,
+    "fiveYear": 17.1
+  },
+  {
+    "id": 23,
+    "name": "DSP Small Cap Fund",
+    "amc": "DSP Mutual Fund",
+    "category": "Small Cap",
+    "risk": "Very High",
+    "oneYear": 29.3,
+    "threeYear": 25.4,
+    "fiveYear": 20.3
+  },
+  {
+    "id": 24,
+    "name": "HSBC Large Cap Fund",
+    "amc": "HSBC Mutual Fund",
+    "category": "Large Cap",
+    "risk": "Medium",
+    "oneYear": 15.8,
+    "threeYear": 14.4,
+    "fiveYear": 13.5
+  },
+  {
+    "id": 25,
+    "name": "Nippon India Pharma Fund",
+    "amc": "Nippon India",
+    "category": "Sectoral",
+    "risk": "High",
+    "oneYear": 22.7,
+    "threeYear": 19.0,
+    "fiveYear": 16.8
+  },
+
+  {
+    "id": 26,
+    "name": "SBI Magnum Mid Cap Fund",
+    "amc": "SBI Mutual Fund",
+    "category": "Mid Cap",
+    "risk": "High",
+    "oneYear": 19.8,
+    "threeYear": 17.9,
+    "fiveYear": 16.1
+  },
+  {
+    "id": 27,
+    "name": "ICICI Prudential Bluechip Fund",
+    "amc": "ICICI Prudential",
+    "category": "Large Cap",
+    "risk": "Medium",
+    "oneYear": 16.4,
+    "threeYear": 15.1,
+    "fiveYear": 14.2
+  },
+  {
+    "id": 28,
+    "name": "Axis Midcap Fund",
+    "amc": "Axis Mutual Fund",
+    "category": "Mid Cap",
+    "risk": "High",
+    "oneYear": 20.4,
+    "threeYear": 17.4,
+    "fiveYear": 15.9
+  },
+  {
+    "id": 29,
+    "name": "UTI Small Cap Fund",
+    "amc": "UTI Mutual Fund",
+    "category": "Small Cap",
+    "risk": "Very High",
+    "oneYear": 26.9,
+    "threeYear": 22.1,
+    "fiveYear": 18.5
+  },
+  {
+    "id": 30,
+    "name": "Kotak Gold Fund",
+    "amc": "Kotak Mutual Fund",
+    "category": "Commodity",
+    "risk": "Low",
+    "oneYear": 10.2,
+    "threeYear": 9.4,
+    "fiveYear": 8.8
+  },
+
+  {
+    "id": 31,
+    "name": "Mirae Asset Large Cap Fund",
+    "amc": "Mirae Asset",
+    "category": "Large Cap",
+    "risk": "Medium",
+    "oneYear": 16.7,
+    "threeYear": 15.4,
+    "fiveYear": 14.0
+  },
+  {
+    "id": 32,
+    "name": "Parag Parikh Conservative Hybrid Fund",
+    "amc": "PPFAS",
+    "category": "Hybrid",
+    "risk": "Low",
+    "oneYear": 9.8,
+    "threeYear": 10.6,
+    "fiveYear": 10.1
+  },
+  {
+    "id": 33,
+    "name": "SBI Technology Opportunities Fund",
+    "amc": "SBI Mutual Fund",
+    "category": "Sectoral",
+    "risk": "High",
+    "oneYear": 24.9,
+    "threeYear": 20.6,
+    "fiveYear": 17.3
+  },
+  {
+    "id": 34,
+    "name": "HDFC Balanced Advantage Fund",
+    "amc": "HDFC Mutual Fund",
+    "category": "Hybrid",
+    "risk": "Low",
+    "oneYear": 12.1,
+    "threeYear": 11.4,
+    "fiveYear": 10.9
+  },
+  {
+    "id": 35,
+    "name": "Axis Nifty 50 Index Fund",
+    "amc": "Axis Mutual Fund",
+    "category": "Index",
+    "risk": "Low",
+    "oneYear": 13.9,
+    "threeYear": 13.1,
+    "fiveYear": 12.8
+  },
+
+  {
+    "id": 36,
+    "name": "DSP Flexi Cap Fund",
+    "amc": "DSP Mutual Fund",
+    "category": "Flexi Cap",
+    "risk": "Medium",
+    "oneYear": 16.2,
+    "threeYear": 15.2,
+    "fiveYear": 14.5
+  },
+  {
+    "id": 37,
+    "name": "Nippon India Banking Fund",
+    "amc": "Nippon India",
+    "category": "Sectoral",
+    "risk": "High",
+    "oneYear": 20.3,
+    "threeYear": 17.4,
+    "fiveYear": 16.6
+  },
+  {
+    "id": 38,
+    "name": "ICICI Prudential Small Cap Fund",
+    "amc": "ICICI Prudential",
+    "category": "Small Cap",
+    "risk": "Very High",
+    "oneYear": 25.7,
+    "threeYear": 23.4,
+    "fiveYear": 19.7
+  },
+  {
+    "id": 39,
+    "name": "HSBC Flexi Cap Fund",
+    "amc": "HSBC Mutual Fund",
+    "category": "Flexi Cap",
+    "risk": "Medium",
+    "oneYear": 15.9,
+    "threeYear": 14.3,
+    "fiveYear": 13.1
+  },
+  {
+    "id": 40,
+    "name": "Kotak Nifty Next 50 Index Fund",
+    "amc": "Kotak Mutual Fund",
+    "category": "Index",
+    "risk": "Medium",
+    "oneYear": 18.5,
+    "threeYear": 17.3,
+    "fiveYear": 16.0
+  },
+
+  {
+    "id": 41,
+    "name": "Tata Mid Cap Growth Fund",
+    "amc": "Tata Mutual Fund",
+    "category": "Mid Cap",
+    "risk": "High",
+    "oneYear": 19.5,
+    "threeYear": 18.2,
+    "fiveYear": 16.4
+  },
+  {
+    "id": 42,
+    "name": "UTI Value Fund",
+    "amc": "UTI Mutual Fund",
+    "category": "Value",
+    "risk": "Medium",
+    "oneYear": 14.8,
+    "threeYear": 14.0,
+    "fiveYear": 13.3
+  },
+  {
+    "id": 43,
+    "name": "SBI Consumption Opportunities Fund",
+    "amc": "SBI Mutual Fund",
+    "category": "Sectoral",
+    "risk": "High",
+    "oneYear": 21.7,
+    "threeYear": 18.1,
+    "fiveYear": 16.2
+  },
+  {
+    "id": 44,
+    "name": "HDFC Small Cap Fund",
+    "amc": "HDFC Mutual Fund",
+    "category": "Small Cap",
+    "risk": "Very High",
+    "oneYear": 26.0,
+    "threeYear": 23.8,
+    "fiveYear": 19.0
+  },
+  {
+    "id": 45,
+    "name": "Axis Balanced Advantage Fund",
+    "amc": "Axis Mutual Fund",
+    "category": "Hybrid",
+    "risk": "Low",
+    "oneYear": 11.4,
+    "threeYear": 10.7,
+    "fiveYear": 10.2
+  },
+
+  {
+    "id": 46,
+    "name": "Motilal Oswal Focused 25 Fund",
+    "amc": "Motilal Oswal",
+    "category": "Focused",
+    "risk": "High",
+    "oneYear": 17.9,
+    "threeYear": 16.5,
+    "fiveYear": 15.1
+  },
+  {
+    "id": 47,
+    "name": "Nippon India Index Sensex Fund",
+    "amc": "Nippon India",
+    "category": "Index",
+    "risk": "Low",
+    "oneYear": 14.1,
+    "threeYear": 13.3,
+    "fiveYear": 12.9
+  },
+  {
+    "id": 48,
+    "name": "ICICI Prudential Pharma Healthcare Fund",
+    "amc": "ICICI Prudential",
+    "category": "Sectoral",
+    "risk": "High",
+    "oneYear": 22.3,
+    "threeYear": 18.8,
+    "fiveYear": 17.5
+  },
+  {
+    "id": 49,
+    "name": "UTI Multi Cap Fund",
+    "amc": "UTI Mutual Fund",
+    "category": "Multi Cap",
+    "risk": "Medium",
+    "oneYear": 15.3,
+    "threeYear": 14.9,
+    "fiveYear": 13.5
+  },
+  {
+    "id": 50,
+    "name": "Kotak Corporate Bond Fund",
+    "amc": "Kotak Mutual Fund",
+    "category": "Debt",
+    "risk": "Low",
+    "oneYear": 7.1,
+    "threeYear": 6.8,
+    "fiveYear": 6.4
+  }
+
+ 
+]
