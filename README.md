@@ -184,12 +184,11 @@ cd backend
 npm install
 
 npm start
-### Backend Server:
-```bash
+Backend Server:
 
 http://localhost:4000
-### Frontend Setup
-```bash
+ Frontend Setup:
+
 cd frontend
 
 npm install
@@ -197,7 +196,7 @@ npm install
 npm run dev
 
 Frontend Server:
-```bash
+
 
 http://localhost:5173
 ```
