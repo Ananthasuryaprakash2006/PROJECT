@@ -8,7 +8,8 @@ Built using **React, Node.js, Express.js, and modern data visualization librarie
 
 ## 🏗️ System Architecture
 
-![Architecture Diagram](docs/images/architecture.png)
+<img width="1024" height="1536" alt="mutualfund-architecture" src="https://github.com/user-attachments/assets/08d8b65d-e545-4a57-b0ed-ea3ce0a948bd" />
+
 
 The application follows a modular full-stack architecture consisting of:
 
@@ -22,36 +23,47 @@ The application follows a modular full-stack architecture consisting of:
 ## ✨ Features
 
 ### 📊 Dashboard Analytics
+<img width="1509" height="723" alt="Dashboard" src="https://github.com/user-attachments/assets/f72aa943-47e9-4023-8359-29b44718b324" />
+
 
 * Portfolio overview and investment insights
 * Interactive charts and KPIs
 * Portfolio growth visualization
 
 ### 🔍 Fund Explorer
+<img width="1521" height="692" alt="fundexplorer" src="https://github.com/user-attachments/assets/8b4ad7e6-7f58-482b-87cb-ac954f12f8eb" />
+
 
 * Search and browse mutual funds
 * Filter funds by risk and category
 * Analyze fund performance metrics
 
 ### ⚖️ Fund Comparison
+<img width="1508" height="689" alt="comparefund" src="https://github.com/user-attachments/assets/891f969f-d8bf-4047-9f65-9b4e91ff7d20" />
+
 
 * Compare multiple funds side-by-side
 * Evaluate returns and risk levels
 * Make informed investment decisions
 
 ### 🤖 AI Investment Advisor
+<img width="1505" height="715" alt="ai-advisor" src="https://github.com/user-attachments/assets/6ca85e77-4d1a-4ba9-b3ac-e85d845485b9" />
 
 * Personalized investment recommendations
 * AI-powered financial insights
 * Risk-based fund suggestions
 
 ### ⭐ Watchlist Management
+<img width="1501" height="698" alt="watchlist" src="https://github.com/user-attachments/assets/9cc179b4-880d-4c79-97f2-fd89ef28a6a2" />
+
 
 * Save favorite funds
 * Track investment performance
 * Monitor selected funds
 
 ### 📈 Advanced Analytics
+<img width="1505" height="708" alt="analytic" src="https://github.com/user-attachments/assets/97d428ec-8b83-4e38-80a3-f44841e9400b" />
+
 
 * Risk vs Return analysis
 * Sector allocation visualization
