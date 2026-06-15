@@ -99,34 +99,6 @@ The application follows a modular full-stack architecture consisting of:
 
 ---
 
-## 📸 Application Screenshots
-
-### 📊 Dashboard
-
-![Dashboard](docs/images/dashboard.png)
-
-### 🔍 Fund Explorer
-
-![Fund Explorer](docs/images/fund-explorer.png)
-
-### ⚖️ Compare Funds
-
-![Compare Funds](docs/images/compare-funds.png)
-
-### 📈 Analytics Dashboard
-
-![Analytics](docs/images/analytics.png)
-
-### 🤖 AI Investment Advisor
-
-![AI Advisor](docs/images/ai-advisor.png)
-
-### ⭐ Watchlist
-
-![Watchlist](docs/images/watchlist.png)
-
----
-
 ## 🔗 API Endpoints
 
 | Endpoint               | Description                         |
@@ -212,6 +184,22 @@ cd backend
 npm install
 
 npm start
+### Backend Server:
+```bash
+
+http://localhost:4000
+### Frontend Setup
+```bash
+cd frontend
+
+npm install
+
+npm run dev
+
+Frontend Server:
+```bash
+
+http://localhost:5173
 ```
 
 ## 🚀 Future Enhancements
