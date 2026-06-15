@@ -214,30 +214,6 @@ npm install
 npm start
 ```
 
-Backend Server:
-
-```bash
-http://localhost:4000
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-
-npm install
-
-npm run dev
-```
-
-Frontend Server:
-
-```bash
-http://localhost:5173
-```
-
----
-
 ## 🚀 Future Enhancements
 
 * User Authentication & Authorization
